@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Linux IT-security**
 
-- 👨‍💻 All of my projects are available at [https://hjerne.net/](https://hjerne.net/)
+- 👨‍💻 All of my projects are available at [https://hjerne.net/yrke/projekt](https://hjerne.net/yrke/projekt)
 
 - 📫 How to reach me **c.hjerne@gmail.com**
 
