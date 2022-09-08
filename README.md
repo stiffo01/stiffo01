@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christoffer Hjerne</h1>
 <h3 align="center">A Linux Devops Engineer student from Sweden!</h3>
 
-- 🌱 i'm currently studying the course  **Python programming**
+- 🌱 i'm currently studying the course  **continuous delivery**
 
 - 👨‍💻 All of my projects are available at [https://hjerne.net/yrke/projekt](https://hjerne.net/yrke/projekt)
 
