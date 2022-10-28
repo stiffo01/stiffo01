@@ -3,8 +3,6 @@
 
 - 🌱 i'm currently studying the course  **continuous delivery**
 
-- 👨‍💻 All of my projects are available at [https://hjerne.net/yrke/projekt](https://hjerne.net/yrke/projekt)
-
 - 📫 How to reach me **c.hjerne@gmail.com**
 
 - 📄 Know about my experiences [https://hjerne.net/om-mig/cv](https://hjerne.net/om-mig/cv)
