@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christoffer Hjerne</h1>
 <h3 align="center">A Linux Devops Engineer student from Sweden!</h3>
 
-- 🌱 i'm currently studying the course  **continuous delivery**
+- 🌱 i'm currently doing  **LIA at Pensionsmyndigheten.se**
 
 - 📫 How to reach me **c.hjerne@gmail.com**
 
