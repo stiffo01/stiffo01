@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christoffer Hjerne</h1>
-<h3 align="center">A Linux Devops Engineer student from Sweden!</h3>
+<h3 align="center" href="https://youtu.be/PjmfpJWqBMw?feature=shared">Just a guy from Sweden</h3>
 
-- 🌱 i'm currently doing  **LIA at Pensionsmyndigheten**
+- 🌱 i'm currently  **working at Pensionsmyndigheten**
 
 - 📫 How to reach me **c.hjerne@gmail.com**
 
 - 📄 Know about my experiences [https://hjerne.net/om-mig/cv](https://hjerne.net/om-mig/cv)
 
-- ⚡ Fun fact **I really like 3D-printing**
+- ⚡ Fun fact **I really like 3D-printing, radio technology and climbing big rocks**
 
 <p align="left">
 </p>
